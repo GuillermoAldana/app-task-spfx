@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.10.0",
+    "libraryName": "app-task",
+    "libraryId": "0d4c4e1a-8b13-4187-b62a-0aca67560320",
+    "environment": "spo",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "isDomainIsolated": true,
+    "componentType": "webpart"
+  }
+}
